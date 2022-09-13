@@ -1,0 +1,25 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(168, 233, 128, 1) 0%, rgba(83, 255, 0, 1) 100%, rgba(0, 212, 255, 1) 100%);
+}
+
+#input_number {
+    width: 300px;
+}
+
+#button {
+    width: 96px;
+    height: 36px;
+    transform: translateX(80px);
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.formulario {
+    text-align: center;
+}
+
+#input_value {
+    width: 550px;
+    height: 30px;
+    transform: translatey(10px)
+}
